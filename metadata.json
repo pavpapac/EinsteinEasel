@@ -1,0 +1,5 @@
+{
+  "name": "Einstein's Easel",
+  "description": "An application that identifies the physicist, mathematics, and biography behind a user-described physical scene using AI.",
+  "requestFramePermissions": []
+}
